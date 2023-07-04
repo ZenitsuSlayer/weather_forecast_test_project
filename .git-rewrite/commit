@@ -1,0 +1,12 @@
+tree 290325dee7321614daeb6347c28697ed20346f12
+author usmanasif <pyroxicated@gmail.com> 1672250913 +0500
+committer usmanasif <pyroxicated@gmail.com> 1672251286 +0500
+
+Implemented 7-day Weather Forecast
+
+  * Added Data for countries and cities
+  * Implemented API call to fetch 7-day weather data for the selected city
+  * Fetch weather data for those countries which have no cities
+  * Proper error handling
+  * Made website mobile responsive
+  * Added a properly documented README file
